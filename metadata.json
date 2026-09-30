@@ -1,0 +1,6 @@
+{
+  "name": "Mini Militia: Doodle Army 2D",
+  "description": "Fast-paced 2D multiplayer-style canvas shooter inspired by Mini Militia with jetpacks, dual weapons, grenades, and smart bot AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
